@@ -1,13 +1,13 @@
-# The XYtextile
-
-### Transforming textiles into an intuitive way to interact with computers. This project is part of an electronic textiles research on HCI gesture interaction that was started in 2005.
-- Credit : Maurin Donneaud <maurin@etextile.org>
-- Repository : https://github.com/etextile/xy-textile
+# XY-textile
+#### Transforming textiles into an intuitive way to interact with computers. This project is part of an electronic textiles research on HCI gesture interaction that was started in 2005.
+- Credit: Maurin Donneaud <maurin@etextile.org>
+- Repository: https://github.com/etextile/xy-textile
+- Pictures: https://www.flickr.com/photos/maurin/albums/72057594109318453
 
 ![Picture](https://farm1.staticflickr.com/151/415702494_c5f5f388be_o_d.jpg)
 
 ## About the project
-The xy-textile is a large textile interface use to compose and play electronic music. By its size, its texture, its flexibility and its transparency, this textile interface involves the whole body in the musical interpretation. Like a music score, the graphics represented on the fabric, give to the composer the ability to locate and play every sounds and sound controls. Thus, for each piece of music, a graphic partition is carried out. The idea behind this project is also to develop an opposite approach to a classical process (from graphic towards the sound). Created in collaboration with graphic designers and composers, theses multisensory interfaces enable the exploration of sound through textile.
+The XY-textile is a large textile interface use to compose and play electronic music. By its size, its texture, its flexibility and its transparency, this textile interface involves the whole body in the musical interpretation. Like a music score, the graphics represented on the fabric, give to the composer the ability to locate and play every sounds and sound controls. Thus, for each piece of music, a graphic partition is carried out. The idea behind this project is also to develop an opposite approach to a classical process (from graphic towards the sound). Created in collaboration with graphic designers and composers, theses multisensory interfaces enable the exploration of sound through textile.
 
 ## Hardware
 This smart textile is made out of two conductive fabrics, each one containing conductive lines oriented in opposite directions.
