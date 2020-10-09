@@ -1,5 +1,6 @@
 # XY-textile
-#### Transforming textiles into an intuitive way to interact with computers. This project is part of an electronic textiles research on HCI gesture interaction that was started in 2005.
+#### Transforming textiles into an intuitive way to interact with computers.
+#### This project is part of an electronic textiles research on HCI gesture interaction that was started in 2005.
 - Credit: Maurin Donneaud <maurin@etextile.org>
 - Repository: https://github.com/etextile/xy-textile
 - Pictures: https://www.flickr.com/photos/maurin/albums/72057594109318453
@@ -24,3 +25,11 @@ This principle can be illustrated by the following schematics:
 
 ## Software
 This project contain a PureData driver
+
+## Copyright
+Except as otherwise noted, all files in the XY-textile project folder
+
+    Copyright (c) 2014-2018 Maurin Donneaud and others.
+
+For information on usage and redistribution, and for a DISCLAIMER OF ALL
+WARRANTIES, see LICENSE.txt
